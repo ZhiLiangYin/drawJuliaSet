@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1607501964 source:/home/pi/formal/formal/id.s
+
+1607502819 source:/home/pi/formal/formal/main.s
+
+1607512067 source:/home/pi/formal/formal/name.s
+
+1607501192 source:/home/pi/formal/formal/Untitled1.s
+
+1607501192 source:/home/pi/030/formal/Untitled1.s
+
+1609930349 source:/home/pi/030/formal/id.s
+
+1607502819 source:/home/pi/030/formal/main.s
+
+1609930972 source:/home/pi/030/formal/name.s
+
+1609801087 source:/home/pi/030/formal/julia.s
+
+1609795669 source:/home/pi/030/formal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<fcntl.h>
+
